@@ -1,0 +1,318 @@
+{
+  "easy": [
+    {
+      "question": "What is 5 + 7?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answer": "12"
+    },
+    {
+      "question": "What is 10 - 4?",
+      "options": [
+        "6",
+        "5",
+        "7",
+        "8"
+      ],
+      "answer": "6"
+    },
+    {
+      "question": "What is 2 + 3?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "3"
+      ],
+      "answer": "5"
+    },
+    {
+      "question": "What is 8 - 1?",
+      "options": [
+        "7",
+        "6",
+        "9",
+        "5"
+      ],
+      "answer": "7"
+    },
+    {
+      "question": "What is 4 + 4?",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": "8"
+    },
+    {
+      "question": "What is 9 + 1?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "8"
+      ],
+      "answer": "10"
+    },
+    {
+      "question": "What is 6 - 6?",
+      "options": [
+        "0",
+        "1",
+        "6",
+        "12"
+      ],
+      "answer": "0"
+    },
+    {
+      "question": "What is 3 + 5?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "6"
+      ],
+      "answer": "8"
+    },
+    {
+      "question": "What is 7 - 0?",
+      "options": [
+        "0",
+        "7",
+        "6",
+        "8"
+      ],
+      "answer": "7"
+    },
+    {
+      "question": "What is 5 + 5?",
+      "options": [
+        "10",
+        "11",
+        "9",
+        "5"
+      ],
+      "answer": "10"
+    }
+  ],
+  "medium": [
+    {
+      "question": "What is 7 x 8?",
+      "options": [
+        "42",
+        "56",
+        "64",
+        "49"
+      ],
+      "answer": "56"
+    },
+    {
+      "question": "What is 12 + 19?",
+      "options": [
+        "31",
+        "29",
+        "30",
+        "32"
+      ],
+      "answer": "31"
+    },
+    {
+      "question": "What is 50 - 27?",
+      "options": [
+        "23",
+        "24",
+        "33",
+        "13"
+      ],
+      "answer": "23"
+    },
+    {
+      "question":"What is 144 / 12?",
+        "options": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "answer": "12"
+      },
+    {
+      "question": "What is 9 x 9?",
+      "options": [
+        "81",
+        "18",
+        "72",
+        "90"
+      ],
+      "answer": "81"
+    },
+    {
+      "question": "What is the square root of 64?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "8"
+    },
+    {
+      "question": "What is 150 / 3?",
+      "options": [
+        "50",
+        "30",
+        "60",
+        "45"
+      ],
+      "answer": "50"
+    },
+    {
+      "question": "What is 6 x 7?",
+      "options": [
+        "42",
+        "48",
+        "36",
+        "49"
+      ],
+      "answer": "42"
+    },
+    {
+      "question": "What is 81 / 9?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "6"
+      ],
+      "answer": "9"
+    },
+    {
+      "question": "What is 11 x 5?",
+      "options": [
+        "50",
+        "45",
+        "60",
+        "55"
+      ],
+      "answer": "55"
+    },
+    {
+      "question": "What is 72 - 13?",
+      "options": [
+        "59",
+        "61",
+        "69",
+        "58"
+      ],
+      "answer": "59"
+    }
+  ],
+  "hard": [
+    {
+      "question": "What is 12 x 12?",
+      "options": [
+        "124",
+        "132",
+        "144",
+        "148"
+      ],
+      "answer": "144"
+    },
+    {
+      "question": "What is (5 + 3) x 4?",
+      "options": [
+        "32",
+        "27",
+        "40",
+        "23"
+      ],
+      "answer": "32"
+    },
+    {
+      "question": "What is 7 squared (7^2)?",
+      "options": [
+        "14",
+        "49",
+        "42",
+        "56"
+      ],
+      "answer": "49"
+    },
+    {
+      "question": "What is 5 x (10 - 3)?",
+      "options": [
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "answer": "35"
+    },
+    {
+      "question": "What is 1000 / 20?",
+      "options": [
+        "50",
+        "500",
+        "20",
+        "200"
+      ],
+      "answer": "50"
+    },
+    {
+      "question": "What is 15% of 200?",
+      "options": [
+        "15",
+        "20",
+        "30",
+        "40"
+      ],
+      "answer": "30"
+    },
+    {
+      "question": "What is 11 x 11?",
+      "options": [
+        "121",
+        "111",
+        "122",
+        "131"
+      ],
+      "answer": "121"
+    },
+    {
+      "question": "What is the square root of 169?",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "answer": "13"
+    },
+    {
+      "question": "What is 2^5 (2 to the power of 5)?",
+      "options": [
+        "10",
+        "16",
+        "32",
+        "64"
+      ],
+      "answer": "32"
+    },
+    {
+      "question": "What is 5! (5 factorial)?",
+      "options": [
+        "25",
+        "120",
+        "60",
+        "100"
+      ],
+      "answer": "120"
+    }
+  ]
+}
